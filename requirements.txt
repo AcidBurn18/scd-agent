@@ -1,0 +1,22 @@
+# Azure Functions requirements
+azure-functions
+
+# Azure AI and OpenAI
+azure-ai-projects~=1.1.0b3
+openai
+azure-identity
+
+# Azure Storage for SCD document storage
+azure-storage-blob
+
+# Revolutionary Validation System dependencies
+asyncio  # For async AI agent coordination
+dataclasses  # For structured data management
+hashlib  # For content versioning and change detection
+datetime  # For temporal validation tracking
+
+# Other dependencies
+python-dotenv
+requests
+aiohttp
+python-docx
